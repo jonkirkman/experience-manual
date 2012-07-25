@@ -14,3 +14,10 @@ StyleDocco generates documentation and style guide documents from your styleshee
 
 https://github.com/imedo/css_doc
 Documentation generator for CSS files, similar to Javadoc or RDoc
+
+## Examples
+
+### Traditional (but exemplary) style guides
+
+- http://design.canonical.com/brand/D.%20Ubuntu%20Web%20Guidelines.pdf
+- http://www.bbc.co.uk/gel
